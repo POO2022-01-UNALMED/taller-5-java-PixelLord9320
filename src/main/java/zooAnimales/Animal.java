@@ -22,7 +22,7 @@ public class Animal {
 	public Animal() {
 		
 	}
-	public String moviento() {
+	public String movimiento() {
 		return "desplazarse";
 	}
 	public String toString() {

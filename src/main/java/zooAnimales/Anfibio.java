@@ -24,7 +24,7 @@ public class Anfibio extends Animal{
 		numAnfi++;
 	}
 	@Override
-	public String moviento() {
+	public String movimiento() {
 		return "Saltar";
 	}
 	public static Animal crearRana(String nombre, int edad, String genero) {

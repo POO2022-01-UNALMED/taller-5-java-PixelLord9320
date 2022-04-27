@@ -24,7 +24,7 @@ public class Reptil extends Animal{
 		numReptil++;
 	}
 	@Override
-	public String moviento() {
+	public String movimiento() {
 		return "Reptar";
 	}
 	public static Animal crearIguana(String nombre, int edad, String genero) {
