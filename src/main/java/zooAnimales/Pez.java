@@ -44,7 +44,7 @@ public class Pez extends Animal{
 		
 	}
 	public static int cantidadPeces() {
-		return numPez++;
+		return numPez;
 	}
 	public String getColorEscamas() {
 		// TODO Auto-generated method stub

@@ -39,7 +39,7 @@ public class Ave extends Animal{
 		return ave.get(ave.size()-1);
 	}
 	public static int cantidadAves() {
-		return numAves++;	
+		return numAves;	
 	}
 	public String getColorPlumas() {
 		

@@ -42,7 +42,7 @@ public class Reptil extends Animal{
 		
 	}
 	public static int cantidadReptiles() {
-		return numReptil++;
+		return numReptil;
 	}
 	public String getColorEscamas() {
 		// TODO Auto-generated method stub
